@@ -1,0 +1,9 @@
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\BUSINESS\obj\Debug\BUSINESS.pdb

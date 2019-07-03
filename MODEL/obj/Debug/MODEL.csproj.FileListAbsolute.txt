@@ -1,0 +1,5 @@
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\MODEL\bin\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\MODEL\obj\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\CarrinhoDeCompra\MODEL\obj\Debug\MODEL.pdb
